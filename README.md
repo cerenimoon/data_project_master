@@ -11,16 +11,16 @@
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Area - Kod Alanı:** Python
-- **Main Libraries - Temel Kütüphaneler:** Pandas, NumPy, Matpolib,  
+- **Main Libraries - Temel Kütüphaneler:** Pandas, NumPy, Matpolib, Scikit-learn  
 - **DevOps & Infrastructure - Geliştirme Çerçevesi ve Altyapı:** Streamlit, Git, Github
 
 ## 💻 Installation & Setup - Yükleme ve Kurulum
 
-Follow these steps to run the project locally:
+Follow these steps to run the project locally - Lokal kurulum için aşağıdaki adımları takip edebilirsiniz:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+git clone [https://github.com/cerenimoon/data_project_master.git](https://github.com/cerenimoon/data_project_master.git)
 cd your-repo-name
 
 # Create and activate a virtual environment
